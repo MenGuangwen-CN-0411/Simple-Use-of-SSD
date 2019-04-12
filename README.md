@@ -14,7 +14,7 @@ then download :ssd300_mAP_77.43_v2.pth and put in weight form:
 https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth
 ,then run:
 
-python demon.py
+python demo.py
 
 you will see the result.  
 It will help you learn how SSD work for detecting a pic. If you want to know much more about train , please see : https://github.com/amdegroot/ssd.pytorch 
