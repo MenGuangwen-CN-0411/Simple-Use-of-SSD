@@ -3,9 +3,12 @@
 
 
 This code just for learner at begining. 
+
 Win 10
+
 python 3.5 
 pytorch 1.0
+
 creat the document named weight
 
 then download :ssd300_mAP_77.43_v2.pth and put in weight ,then run:
