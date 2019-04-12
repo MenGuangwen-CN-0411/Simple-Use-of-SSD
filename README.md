@@ -2,7 +2,7 @@
 
 
 
-This code  just for learner at begining. It is based on amdegroot's SSD work.
+This code  just for learner at beginning. It is based on amdegroot's SSD work.
 
 |Win 10
 |python 3.5 
