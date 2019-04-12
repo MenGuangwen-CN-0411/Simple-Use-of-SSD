@@ -8,11 +8,13 @@ This code  just for learner at beginning. It is based on amdegroot's SSD work.
 |python 3.5 
 |pytorch 1.0
 
-creat the document named weight
+creat the folder named weights
 
 then download :ssd300_mAP_77.43_v2.pth and put in weight form:
-https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth
-,then run:
+https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth  or 
+https://pan.baidu.com/s/1mlDIoW-B845YB16TQBj3Gw     Extracted code : 88xr 
+
+then run:
 
 python demo.py
 
