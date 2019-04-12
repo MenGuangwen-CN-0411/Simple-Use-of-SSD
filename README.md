@@ -2,18 +2,22 @@
 
 
 
-This code just for learner at begining. 
+This code  just for learner at begining. It is based on amdegroot's SSD work.
 
-Win 10
-
-python 3.5 
-pytorch 1.0
+|Win 10
+|python 3.5 
+|pytorch 1.0
 
 creat the document named weight
 
-then download :ssd300_mAP_77.43_v2.pth and put in weight ,then run:
+then download :ssd300_mAP_77.43_v2.pth and put in weight form:
+https://s3.amazonaws.com/amdegroot-models/ssd300_mAP_77.43_v2.pth
+,then run:
 
 python demon.py
 
 you will see the result.  
-It will help you learn how SSD work for detecting a pic. If you want to know much more ,please see : https://github.com/amdegroot/ssd.pytorch 
+It will help you learn how SSD work for detecting a pic. If you want to know much more about train , please see : https://github.com/amdegroot/ssd.pytorch 
+see much more about the SSD details original paper:SSD: Single Shot MultiBox Detector
+
+https://arxiv.org/abs/1512.02325
